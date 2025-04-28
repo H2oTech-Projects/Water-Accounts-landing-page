@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: "Water Accounting",
   description: "Powered by H2OtechOnline",
   icons:{
-    icon: "/logo.png",}
+    icon: "/logo.svg",}
 };
 
 export default function RootLayout({
