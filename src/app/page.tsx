@@ -28,7 +28,7 @@ export default function Home() {
       </main>
       <footer className="flex flex-col sm:flex-row justify-between items-center px-4 md:px-6 py-4 text-white text-sm">
         <a href="mailto:Info@H2oTechOnline.com">Email: Info@H2oTechOnline.com</a>
-        <p className="mt-1 sm:mt-0">© 2025 H2OTech</p>
+        <p className="mt-1 sm:mt-0">© 2025 H2oTech</p>
       </footer>
       <Image
         src="/background.png"
